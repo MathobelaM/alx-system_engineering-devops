@@ -1,0 +1,1 @@
+The file 0_hello_world prints a string to the standard output
